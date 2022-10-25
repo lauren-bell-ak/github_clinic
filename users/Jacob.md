@@ -42,3 +42,6 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
+
+![HIKING 008 (1)](https://user-images.githubusercontent.com/114612187/197866124-7b883af6-2e9b-4f28-bdc1-af7d58480e42.jpg)
+
