@@ -24,9 +24,9 @@ We can make words **bold** or *italic*.
 
 We can make lists of favorite animals– *note that lists need a carriage return before list items!*
 
-**1. Koalas
-**2. Mola mola
-**3. Orca
+**1. Koalas**
+**2. Mola mola**
+**3. Orca**
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
