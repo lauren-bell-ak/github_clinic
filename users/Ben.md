@@ -35,6 +35,8 @@ Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmer
 
 *Note that we've also made a indented quote block with the `>` symbol*
 
+> Attempt at indented block quote
+
 We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. For example: 
 
 ![](../horst-champions-trailhead.png)
